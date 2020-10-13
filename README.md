@@ -1,5 +1,6 @@
 ###  I am Yatender👋
 
+<img src="https://github.com/yatender-oktalk/yatender-oktalk/blob/main/bio.png" />
 
  - 🔭 I’m currently working on Elixir & Blockchain
  - 🌱 I’m currently learning Rust & Blockchain
